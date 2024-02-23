@@ -32,4 +32,4 @@ array
 * last 2 digit find outc any number: //jast modulus 100 in this number.more informaton problem no 219858
 * last modifyed data
 
-Array 
+Array is a variable 
