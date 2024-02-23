@@ -4,7 +4,7 @@ VVI Tricks:
 ***
 array 
 
-
+isnote variable
 
 
 
