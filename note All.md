@@ -1,12 +1,6 @@
 VVI Tricks:
 *****Input can also be taken inside the condition.//while(cin>>a).thats behaviour is do while loop but i note sure.
 
-***
-array 
-
-isnote variable
-
-
 
 
 
@@ -32,4 +26,3 @@ isnote variable
 * last 2 digit find outc any number: //jast modulus 100 in this number.more informaton problem no 219858
 * last modifyed data
 
-Array is a variable 
