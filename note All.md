@@ -29,4 +29,5 @@
            int a=num[i];
            num[i]=a*2;
         }
+*
 
