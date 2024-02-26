@@ -19,3 +19,15 @@
 * last modifyed data
 
 
+***************Array**************************
+* data push and specific data retrive and work then same index data push agin:
+        for (i = 0; i <tcase; i++){
+                cin>>num[i];
+        }
+        for ( i = 0; i <tcase; i++)
+        {
+           int a=num[i];
+           num[i]=a*2;
+        }
+
+* 
