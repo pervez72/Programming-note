@@ -23,4 +23,4 @@ VVI Tricks:
 * when compair big number (10^12)^(10^6) >= (10^11)^(10^5) use logarithm // b* log(a)> m * log(n);[a,b=base_and_m,n=power]
 * last 2 digit find outc any number: //jast modulus 100 in this number.more informaton problem no 219858
 
-gcd isa
+gcd 
