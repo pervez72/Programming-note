@@ -29,13 +29,17 @@
            int a=num[i];
            num[i]=a*2;
         }
-* 
-
+* 2D Array:
+        * Diagonal Matrix= 2d Array Element is row and col value is excatly same.
+        * TRANSPOSE MATRIX = row corvert is column and colmun is convert row
+        * Upertaringle Element= when row index is small and colmun is big // (r < c)
+        * Lowertaringle Element= inverse
+        
 
 ****************STRING***************
 * String is Charcter Type arry.
 * string last index is null ='\0';
-* char ch[]="Pervez"
+* char ch[]="Pervez" //size is 6 but last index is 5 so null value=6-5=1
 * \ this is a line breaking tool that is   multiple string line
 * string input=gets(var_name);
 * string when data input do not use scanf becuse this is not work space after word so all time use gets(variale_name); function.that mean replace scanf by gets(variale_name);
@@ -47,4 +51,4 @@
 * String Concatination that means string sumation: strcat(a,b);
 * String Compair: strcmp(s_var,s_var); //when string are equal return value 0 otherwise 1;
 * String Reverse: strrev(str_var);
-
+* 
