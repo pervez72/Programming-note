@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+
   int t,n,i,fact=1;
   cin>>t;
   if (t>=0 && t<=15)
@@ -27,4 +28,23 @@ int main(){
 
 
 }
+
+
+  int pass=1999,x;
+
+      while (cin>>x)
+        {
+          if(x==pass){
+               cout<<"Correct"<<endl;
+               break;
+             }
+              else
+              cout<<"Wrong"<<endl;
+       
+            }
+            
+              
+
+        }
+
  
