@@ -1,26 +1,3 @@
-**************Genaral**************
-*   int m,n,sum=0;
-    while (cin>>m>>n)
-    {
-        if(n==m){
-              break;
-        }
-        else
-            sum=m+n;
-          
-      cout<<sum<<endl;
-    }
-        // thats work a user defind loop;
-* 
-
-
-
-
-
-
-
-
-
 **********Libray Funtion:****************
 * floor(x)=banglai meanig  meje that means floatig point mumber jast count decimal number and skip other      number. // x=5.222 ans is=5 and skip 0.222
 * ceil(x)= bangla meaning sad. that means after the decimal,next integar number in counted //x=5.33 ans is=6
