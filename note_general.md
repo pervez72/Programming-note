@@ -11,7 +11,8 @@
       cout<<sum<<endl;
     }
         // thats work a user defind loop;
-* 
+* * 
+
 
 
 
